@@ -5,7 +5,7 @@ int main(){
 	cout<<"KY "<<a+b<<endl;
 	a=10;
 	b=9;
-	cout<<"a*b*c="<<a*b*c<<endl<<"Hi Max, Micha";
+	cout<<"a*b*c="<<a*b*c<<endl<<"Hi Max Merzlikin, Micha Kim";
 	return 0;
 }
 
