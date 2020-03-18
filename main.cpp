@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 int main(){
-	int a=1,b=2;
+	int a=1,b=2,c=8;
 	cout<<"KY "<<a+b<<endl;
-	a=5;
+	a=9;
 	b=4;
-	cout<<"a*b="<<a*b;
+	cout<<"a*b*c="<<a*b*c<<endl<<"Hi Max, Micha";
 	return 0;
 }
 
